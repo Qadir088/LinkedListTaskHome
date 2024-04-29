@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\LinkedListTaskHome\LinkedListTaskHome\bin\Debug\LinkedListTaskHome.exe.config
+C:\Users\HP\source\repos\LinkedListTaskHome\LinkedListTaskHome\bin\Debug\LinkedListTaskHome.exe
+C:\Users\HP\source\repos\LinkedListTaskHome\LinkedListTaskHome\bin\Debug\LinkedListTaskHome.pdb
+C:\Users\HP\source\repos\LinkedListTaskHome\LinkedListTaskHome\obj\Debug\LinkedListTaskHome.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LinkedListTaskHome\LinkedListTaskHome\obj\Debug\LinkedListTaskHome.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LinkedListTaskHome\LinkedListTaskHome\obj\Debug\LinkedListTaskHome.exe
+C:\Users\HP\source\repos\LinkedListTaskHome\LinkedListTaskHome\obj\Debug\LinkedListTaskHome.pdb
